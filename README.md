@@ -10,7 +10,7 @@
 - i have experience in OS 🐧Linux and 🪟Windows
 - 📫 How to reach me: 
 -                   🏖️my instagram is : https://www.instagram.com/matheus.roquedebrito/
--                     👔my linkedin is :https://www.linkedin.com/in/matheus-rock-b835671a6/
+-                   👔my linkedin is  : https://www.linkedin.com/in/matheus-roque-de-brito-6a996021a/
 
 
 
@@ -24,7 +24,7 @@
 - Eu tenho experiencia com SO 🐧Linux and 🪟Windows
 - 📫 Como você pode me achar?: 
 -                     🏖️meu instagram é :https://www.instagram.com/matheus.roquedebrito/
--                     👔meu linkedin é :https://www.linkedin.com/in/matheus-roque-b835671a6/
+-                     👔meu linkedin é  :https://www.linkedin.com/in/matheus-roque-de-brito-6a996021a/
 
  <div>
   <a href="https://github.com/matheusroqueprofissional">
