@@ -7,7 +7,7 @@
 - 💬 Ask me about my projects and repositories and job
 - 👶Today i work in clinic of neurohabilitation
 - i have very interessing in work in TI area, i love the area of web and cybersecurity
-- i have experience in OS 🐧Linux and 🪟 Windows
+- i have experience in OS 🐧Linux and Windows
 - 📫 How to reach me: 
 -                   🏖️my instagram is : https://www.instagram.com/matheus.roquedebrito/
 -                   👔my linkedin is  : https://www.linkedin.com/in/matheus-roque-de-brito-6a996021a/
@@ -21,7 +21,7 @@
 - 💬 Me pergunte sobre meus repositorios, projetos e trabalho
 - 👶Atualmente eu trabalho em uma clinica de neurohabilitacao intensiva
 - Eu tenho muito interesse na area de TI e na area de cybersecurity 
-- Eu tenho experiencia com SO 🐧Linux and 🪟 Windows
+- Eu tenho experiencia com SO 🐧Linux and Windows
 - 📫 Como você pode me achar?: 
 -                     🏖️meu instagram é :https://www.instagram.com/matheus.roquedebrito/
 -                     👔meu linkedin é  :https://www.linkedin.com/in/matheus-roque-de-brito-6a996021a/
