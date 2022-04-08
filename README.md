@@ -1,5 +1,5 @@
 ### Hi i am Matheus Roque👋
-<div style="width: 1000px; height: 10px; color: red; background-color: red;">oi</div>
+
 - 🇧🇷i am brazilian
 - 🇺🇳i speak: 🇺🇸english,🇧🇷portuguese,🇪🇸spanish
 - 🌱 I’m currently learning PHP, HTML, CSS, SQL
@@ -29,9 +29,9 @@
 
 
 
+
 <div>
-  <h1>ola bem vindo ao meu perfil</h1>
-  <div style='color:red'>oi<div>
+  <div style="width: 1000px; height: 10px; color: red; background-color: red;">oi</div>
 </div>
 
 
