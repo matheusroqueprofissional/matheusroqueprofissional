@@ -1,7 +1,7 @@
 ### Hi i am Matheus Roque👋
 
-- 🇧🇷i am brazilian
-- 🇺🇳i speak: 🇺🇸english,🇧🇷portuguese,🇪🇸spanish
+- 🇧🇷 i am brazilian
+- 🇺🇳 i speak: 🇺🇸english,🇧🇷portuguese,🇪🇸spanish
 - 🌱 I’m currently learning PHP, HTML, CSS, SQL
 - 👯 I’m looking to collaborate on C, PYTHON, SQL, HTML,CSS programms, focusing in cybersecurity or development
 - 🤔 I’m looking for help with development and cybersecurity in industries and website
