@@ -58,11 +58,7 @@
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusroqueprofissional)](https://github.com/matheusroqueprofissional/github-readme-stats)
 
-### Tempo programando em projetos pessoais:
 
-[![@matheusroque stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusroqueprofissional)](https://github.com/matheusroqueprofissional/github-readme-stats)
-
-Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
 
   
   
