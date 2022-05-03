@@ -48,4 +48,23 @@
   <a href="https://www.linkedin.com/in/matheus-roque-de-brito-6a996021a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+  
+  
+  
+  
+  
+  
+  ### Tecnologias que uso no meu dia-a-dia:
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
+
+### Tempo programando em projetos pessoais:
+
+[![Leonardo Motta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
+
+Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
+
+  
+  
+  
 
