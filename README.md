@@ -56,11 +56,11 @@
   
   ### Tecnologias que uso no meu dia-a-dia:
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=/matheusroqueprofissional)](https://github.com//matheusroqueprofissional/github-readme-stats)
 
 ### Tempo programando em projetos pessoais:
 
-[![Leonardo Motta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leoobrabo)](https://github.com/leoobrabo/github-readme-stats)
+[![Leonardo Motta wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=/matheusroqueprofissional)](https://github.com//matheusroqueprofissional/github-readme-stats)
 
 Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
 
