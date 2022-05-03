@@ -56,7 +56,7 @@
   
 ### Tecnologias que uso no meu dia-a-dia:
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusroqueprofissional)](https://github.com/matheusroqueprofissional/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusroqueprofissional)](https://github.com/matheusroqueprofissional)
 
 
 
