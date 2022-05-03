@@ -60,7 +60,7 @@
 
 ### Tempo programando em projetos pessoais:
 
-[![matheusroqueprofissional stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusroqueprofissional)](https://github.com/matheusroqueprofissional/github-readme-stats)
+[![@matheusroque stats](https://github-readme-stats.vercel.app/api/wakatime?username=matheusroqueprofissional)](https://github.com/matheusroqueprofissional/github-readme-stats)
 
 Apaixonado por tecnologia, minha família, meus gatos, musica e programação.
 
